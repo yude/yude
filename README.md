@@ -11,9 +11,7 @@ Avatar by [猫蝉](https://twitter.com/hikaru_riv). Thank you!
 * Discord: `yude#3205`
 * E-mail: [i@yude.jp](mailto:i@yude.jp)
 * Keybase: [yude](https://keybase.io/yude)
-* Instagram: [@yude.jp](https://instagr.am/yude.jp)
-
-All of my accounts are available at [here](https://scrapbox.io/yude/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88).
+[More](https://scrapbox.io/yude/%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88).
 
 #### 🔑 Public keys
 * SSH: [github.com/yude.keys](https://github.com/yudejp.keys)
