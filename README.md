@@ -1,7 +1,7 @@
 ### Hi there 👋
 Avatar by [猫蝉](https://twitter.com/hikaru_riv). Thank you!
 
-![Keybase PGP](https://img.shields.io/keybase/pgp/yude)
+[![PGP](https://img.shields.io/keybase/pgp/yude)](https://github.com/yude.gpg)
 <!-- / Public keys: [SSH](https://github.com/yude.keys), [PGP](https://github.com/yude.gpg) / [More...](https://yude.jp/profile) -->
 <!--
 #### 📌 About me
