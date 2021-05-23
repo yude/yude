@@ -1,4 +1,3 @@
-### Hi there 👋
 Avatar by [猫蝉](https://twitter.com/hikaru_riv). Thank you!
 
 [![PGP](https://img.shields.io/keybase/pgp/yude)](https://github.com/yude.gpg)
