@@ -1,24 +1,24 @@
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=ja&theme=dark&hide_title=true&hide_rank=true&card_width=300px"
+    srcset="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=en&theme=dark&hide_title=true&hide_rank=true&card_width=300px"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=ja&hide_title=true&hide_rank=true&card_width=300px"
+    srcset="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=en&hide_title=true&hide_rank=true&card_width=300px"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=ja&hide_title=true&hide_rank=true&card_width=300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yude&show_icons=false&locale=en&hide_title=true&hide_rank=true&card_width=300px" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&theme=dark&locale=ja&hide=html,kotlin"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&theme=dark&locale=en&hide=html,kotlin"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&locale=ja&hide=html,kotlin"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&locale=en&hide=html,kotlin"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&locale=ja&hide=html,kotlin" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yude&layout=compact&locale=en&hide=html,kotlin" />
 </picture>
 <br>
 
